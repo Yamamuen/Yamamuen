@@ -1,11 +1,11 @@
 ![Header](images/header.jpg "Header")
 
-# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ( ͡° ͜ʖ ͡°) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Enzo Yamamura and I'm an enthusiast of *everything data*!
+My name is Enzo Yamamura and I'm a weirdo and enthusiastic about *everything data*!
 I live in Sao Paulo, Brazil and am currently looking to jumpstart my career in Data.
-Here you'll find both personal and course projects as I progress towards my goals!
+Here you'll find both my personal and course projects as I progress towards my goals!
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
