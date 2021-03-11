@@ -1,16 +1,32 @@
-### Hi there 👋
+![Header](images/header.jpg "Header")
 
-<!--
-**Yamamuen/Yamamuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Enzo Yamamura and I'm an enthusiast of *everything data*!
+I live in Sao Paulo, Brazil and am currently looking to jumpstart my career in Data.
+Here you'll find both personal and course projects as I progress towards my goals!
+
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: images/instagram.png (instagram icon)
+[2.2]: images/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.instagram.com/yamamuraenzo/
+[2]: https://www.linkedin.com/in/enzoyamamura/
+
+___
+# :wrench: Skills and Tools 
+
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+
+ ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Tableau-informational?style=for-the-badge&logo=tableau&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-MSOffice-informational?style=for-the-badge&logo=microsoft-office&logoColor=white&color=2bbc8a) 
+___
+# :chart_with_upwards_trend:  GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api//?username=yamamuen&show_icons=true&theme=synthwave) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yamamuen&show_icons=true&theme=synthwave) 
+
