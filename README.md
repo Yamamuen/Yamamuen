@@ -22,7 +22,7 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 ___
 # :wrench: Skills and Tools 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 
  ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Tableau-informational?style=for-the-badge&logo=tableau&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-MSOffice-informational?style=for-the-badge&logo=microsoft-office&logoColor=white&color=2bbc8a) 
 ___
