@@ -1,4 +1,4 @@
-![Header](images/header.jpg "Header")
+<!-- ![Header](images/header.jpg "Header") -->
 
 # Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ( ͡° ͜ʖ ͡°) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
